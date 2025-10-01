@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///Users/nikita/Documents/flames/2/flames/backend/template/frontend/src/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <div>\n      <h1>Hi</h1>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,sQAAC;kBACC,cAAA,sQAAC;sBAAG;;;;;;;;;;;AAGV","debugId":null}}]
+}
